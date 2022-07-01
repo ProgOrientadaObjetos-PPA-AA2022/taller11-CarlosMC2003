@@ -24,14 +24,14 @@ public class Ejecutor01 {
 /*
 Factura
 Cliente: René Elizalde
-Menu del Día:
+Menu de Niños:
 	Plato: Niños 01
 	Valor Inicial: 2,00
 	Valor helado: 1,00
 	Valor pastel: 1,50
 	Valor del Menú: 4,50
 
-Menu del Día:
+Menu de Niños:
 	Plato: Niños 02
 	Valor Inicial: 3,00
 	Valor helado: 1,00
